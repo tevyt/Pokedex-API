@@ -28,7 +28,7 @@ CREATE TABLE pokemon(
     pokedex_number INT NOT NULL,
     name VARCHAR(50) NOT NULL,
     speed INT NOT NULL,
-    special_defence INo NOT NULL,
+    special_defence INT NOT NULL,
     type
     special_attack INT NOT NULL,
     defence INT NOT NULL,
