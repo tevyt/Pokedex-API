@@ -29,7 +29,6 @@ CREATE TABLE pokemon(
     name VARCHAR(50) NOT NULL,
     speed INT NOT NULL,
     special_defence INT NOT NULL,
-    type
     special_attack INT NOT NULL,
     defence INT NOT NULL,
     attack INT NOT NULL,
