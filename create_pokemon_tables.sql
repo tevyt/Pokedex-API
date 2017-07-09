@@ -22,7 +22,8 @@ VALUES
     ("Ice"),
     ("Dragon"),
     ("Dark"),
-    ("Fairy");
+    ("Fairy"),
+    ("null");
 
 CREATE TABLE pokemon(
     pokedex_number INT NOT NULL,
